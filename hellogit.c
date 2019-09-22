@@ -10,7 +10,8 @@ int main(int argc, char *argv[])
 {
 	printf("Hello git\r\n");
 	printf("啦啦啦啦啦\r\n");
-
+    
+	printf("你说的都对\r\n");
 	return 0;
 }
 
